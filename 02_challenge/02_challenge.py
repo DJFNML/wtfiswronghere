@@ -23,4 +23,5 @@ def fizzbuzz(max_num):
 
 #----START OF SCRIPT
 if __name__=='__main__':
-    fizzbuzz()
+    #import pdb; pdb.set_trace()
+    fizzbuzz(100)
