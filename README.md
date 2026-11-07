@@ -40,3 +40,5 @@ We suggest you do the following
 9. __Pro tip:__ Once you are setup, try your best to timebox each exercise to no more than 10-minutes. We recommend this tip for even rank beginners who know nearly nothing about Python!   
 
 NOTE: To get the most out of these exercises, we think beginners should use an IDE (e.g.: Visual Studio Code), use git and use one git branch per challenge. These are peripheral habits to the main exercises but they will go a long way in making you more comfortable in working with code. 
+
+DYLAN'S NOTE: I wanted to use this repo to learn how to use pdb. The code was too simple in the end to really be effective there, but I guess I did have fun navigating things with it in a few of the exercises. But I figured hell, why not just use this repo to show I can actually use git??? I've been using vim inside of my VSCode to do all the branching, committing and merging and stuff, so I figured I could at least have some trace somewhere on the internet where I've version controlled properly(ish).
